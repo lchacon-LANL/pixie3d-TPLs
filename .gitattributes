@@ -1,0 +1,4 @@
+adios-2.5.tgz filter=lfs diff=lfs merge=lfs -text
+petsc-3.0.0-p7.tar.gz filter=lfs diff=lfs merge=lfs -text
+sprng5.tgz filter=lfs diff=lfs merge=lfs -text
+xdraw.tgz filter=lfs diff=lfs merge=lfs -text
